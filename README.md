@@ -1,0 +1,2 @@
+# rust
+A rust tutorial
